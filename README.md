@@ -21,9 +21,9 @@ thal	      3 = normal; 6 = fixed defect; 7 = reversible defect
 Target	    1 or 0
 
 ### Task to be performed:
-*	Preliminary analysis:
-   * Perform preliminary data inspection and report the findings on the structure of the data, missing values, duplicates, etc.
-   *	Based on these findings, remove duplicates (if any) and treat missing values using an appropriate strategy
+1.	Preliminary analysis:
+    * Perform preliminary data inspection and report the findings on the structure of the data, missing values, duplicates, etc.
+    *	Based on these findings, remove duplicates (if any) and treat missing values using an appropriate strategy
 
 *	Prepare a report about the data explaining the distribution of the disease and the related factors using the steps listed below:
   *	Get a preliminary statistical summary of the data and explore the measures of central tendencies and spread of the data
